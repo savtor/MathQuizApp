@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Math Quiz Application
 
 This is a simple math quiz application built using Python and Tkinter. It generates random addition questions for the user to solve.
@@ -20,3 +21,7 @@ This is a simple math quiz application built using Python and Tkinter. It genera
 
 - Python
 - Tkinter
+=======
+# MathQuizApp
+Maths game made using python.
+>>>>>>> 881f8aec89dad626e493e19161ce791cb695a458
